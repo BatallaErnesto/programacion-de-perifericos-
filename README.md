@@ -1,7 +1,7 @@
 # programacion-de-perifericos-
 ======================================================================
-![GitHub Logo](/images/KJBJK.jpg)
-Format: ![Alt Text](url)
+![mi logo](KJBJK.jpg)
+
 
 ERNESTO BATALLA RODRIGUEZ 
 ## PROGRAMACION EN C++
